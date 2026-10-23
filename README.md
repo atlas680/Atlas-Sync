@@ -1,5 +1,7 @@
 # Atlas Drive Sync
 
+> **Get Atlas Sync:** [Purchase or learn more on Gumroad](https://atlasia0.gumroad.com/l/Atlas-sync)
+
 High-performance Google Drive synchronization client for Linux desktop and headless server environments. Operates directly over HTTPS without FUSE virtual filesystem overhead.
 
 ## Key Features
